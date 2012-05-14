@@ -1,0 +1,16 @@
+
+Desierto
+Isla
+Oceano
+Litoral
+Pradera
+Estepa
+Rio
+Lago
+Humedal
+Sabana
+Matorral
+BosqueTemplado
+Taiga
+BosqueHumedoTropical
+Tundra
