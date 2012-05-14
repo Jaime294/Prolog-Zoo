@@ -1,7 +1,6 @@
-Prolog-Zoo
+TAREA PROGRAMADA 2
 ==========
-
-Tarea Prolog-Python
+Tarea Prolog-Python Zoologico
 
 La version final se compone de los siguientes archivos:
 ==========
