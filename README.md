@@ -18,3 +18,7 @@ Archivos del Wrapper:
 Archivos de otras librerias necesarias:
 ==========
 	-ttk.py
+	
+Documentacion:
+==========
+	-Documentacion.pdf
