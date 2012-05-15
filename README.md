@@ -15,4 +15,6 @@ Archivos del Wrapper:
 	-__init__.py
 	-core.py
 	-easy.py
+Archivos de otras librerias necesarias:
+==========
 	-ttk.py
